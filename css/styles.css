@@ -1,0 +1,534 @@
+/* *************** FONT: POPPINS *************** */
+@font-face {
+    font-family: 'Poppins';
+    src: url('/fonts/Poppins-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('/fonts/Poppins-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('/fonts/Poppins-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('/fonts/Poppins-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('/fonts/Poppins-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('/fonts/Poppins-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('/fonts/Poppins-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('/fonts/Poppins-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('/fonts/Poppins-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('/fonts/Poppins-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('/fonts/Poppins-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('/fonts/Poppins-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('/fonts/Poppins-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('/fonts/Poppins-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('/fonts/Poppins-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('/fonts/Poppins-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('/fonts/Poppins-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('/fonts/Poppins-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+
+
+/* *************** FONT: ROBOTO *************** */
+@font-face {
+    font-family: 'Roboto';
+    src: url('/fonts/Roboto-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('/fonts/Roboto-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('/fonts/Roboto-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('/fonts/Roboto-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('/fonts/Roboto-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('/fonts/Roboto-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('/fonts/Roboto-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('/fonts/Roboto-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('/fonts/Roboto-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('/fonts/Roboto-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('/fonts/Roboto-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('/fonts/Roboto-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('/fonts/Roboto-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('/fonts/Roboto-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('/fonts/Roboto-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('/fonts/Roboto-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('/fonts/Roboto-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('/fonts/Roboto-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+/* *************** CLASES POPPINS *************** */
+.poppins {
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-style: normal;
+}
+
+.poppinsThin {
+    font-family: 'Poppins';
+    font-weight: 100;
+    font-style: normal;
+}
+
+.poppinsThinItalic {
+    font-family: 'Poppins';
+    font-weight: 100;
+    font-style: italic;
+}
+
+.poppinsExtraLight {
+    font-family: 'Poppins';
+    font-weight: 200;
+    font-style: normal;
+}
+
+.poppinsExtraLightItalic {
+    font-family: 'Poppins';
+    font-weight: 200;
+    font-style: italic;
+}
+
+.poppinsLight {
+    font-family: 'Poppins';
+    font-weight: 300;
+    font-style: normal;
+}
+
+.poppinsLightItalic {
+    font-family: 'Poppins';
+    font-weight: 300;
+    font-style: italic;
+}
+
+.poppinsRegular {
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-style: normal;
+}
+
+.poppinsItalic {
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-style: italic;
+}
+
+.poppinsMedium {
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-style: normal;
+}
+
+.poppinsMediumItalic {
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-style: italic;
+}
+
+.poppinsSemiBold {
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-style: normal;
+}
+
+.poppinsSemiBoldItalic {
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-style: italic;
+}
+
+.poppinsBold {
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-style: normal;
+}
+
+.poppinsBoldItalic {
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-style: italic;
+}
+
+.poppinsExtraBold {
+    font-family: 'Poppins';
+    font-weight: 800;
+    font-style: normal;
+}
+
+.poppinsExtraBoldItalic {
+    font-family: 'Poppins';
+    font-weight: 800;
+    font-style: italic;
+}
+
+.poppinsBlack {
+    font-family: 'Poppins';
+    font-weight: 900;
+    font-style: normal;
+}
+
+.poppinsBlackItalic {
+    font-family: 'Poppins';
+    font-weight: 900;
+    font-style: italic;
+}
+
+/* *************** CLASES ROBOTO *************** */
+.roboto {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-style: normal;
+}
+
+.robotoThin {
+    font-family: 'Roboto';
+    font-weight: 100;
+    font-style: normal;
+}
+
+.robotoThinItalic {
+    font-family: 'Roboto';
+    font-weight: 100;
+    font-style: italic;
+}
+
+.robotoExtraLight {
+    font-family: 'Roboto';
+    font-weight: 200;
+    font-style: normal;
+}
+
+.robotoExtraLightItalic {
+    font-family: 'Roboto';
+    font-weight: 200;
+    font-style: italic;
+}
+
+.robotoLight {
+    font-family: 'Roboto';
+    font-weight: 300;
+    font-style: normal;
+}
+
+.robotoLightItalic {
+    font-family: 'Roboto';
+    font-weight: 300;
+    font-style: italic;
+}
+
+.robotoRegular {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-style: normal;
+}
+
+.robotoItalic {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-style: italic;
+}
+
+.robotoMedium {
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-style: normal;
+}
+
+.robotoMediumItalic {
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-style: italic;
+}
+
+.robotoSemiBold {
+    font-family: 'Roboto';
+    font-weight: 600;
+    font-style: normal;
+}
+
+.robotoSemiBoldItalic {
+    font-family: 'Roboto';
+    font-weight: 600;
+    font-style: italic;
+}
+
+.robotoBold {
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-style: normal;
+}
+
+.robotoBoldItalic {
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-style: italic;
+}
+
+.robotoExtraBold {
+    font-family: 'Roboto';
+    font-weight: 800;
+    font-style: normal;
+}
+
+.robotoExtraBoldItalic {
+    font-family: 'Roboto';
+    font-weight: 800;
+    font-style: italic;
+}
+
+.robotoBlack {
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-style: normal;
+}
+
+.robotoBlackItalic {
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-style: italic;
+}
+
+/* Background colors */
+
+.blueBG {
+
+    background-color: #1f4788;
+}
+
+.greenBG {
+    background-color: #28a745;
+}
+
+.orangeBG {
+    background-color: #fd7e14;
+}
+
+.redBG {
+    background-color: #dc3545;
+}
+
+/* Text colors */
+.blueText {
+
+    color: #1f4788;
+}
+
+.greenText {
+    color: #28a745;
+}
+
+.orangeText {
+    color: #fd7e14;
+}
+
+.redText {
+    color: #dc3545;
+}
+
+
+.lightBlueText {
+    color: #17a2b8;
+}
+.lightGreenText {
+    color: #b2ecc5;
+}
+ 
+ .lightOrangeText {
+    color: #ffe0c2;
+}
